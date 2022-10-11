@@ -30,15 +30,7 @@ LPの狙いやコンセプトを決め、デザインが完成したらいよい
 また、実際のサービス名やテキストの部分は伏せる形で掲載しています。
 :::
 
------
 [![](/images/web_practice_lp/lp-design-pc-thumb.jpg)](https://zenn.office-iwakiri.com/articles/web_practice_lp/lp-design-pc01.png)
-*PC向けのデザイン*
-
------
-[![](/images/web_practice_lp/lp-design-sp-thumb.jpg)](https://zenn.office-iwakiri.com/articles/web_practice_lp/lp-design-sp01.png)
-*スマホ向けのデザイン*
-
------
 
 この段階で、同時にワイヤーフレームもあれば、LP全体の構成もイメージしやすいと思いますが、プロジェクトによってはワイヤーフレームを作っていない場合もありますので、デザインをもとに全体の構成もイメージできるようにしておいた方が良いです。
 
