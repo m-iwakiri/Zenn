@@ -6,7 +6,7 @@ topics:
     - "HTML"
     - "CSS"
     - "LP"
-published: false
+published: true
 ---
 :::message
 この記事はHTML/CSSを勉強中の方向けにLPの制作過程を追いながら、コーディング上のポイントなどを解説する記事です。
