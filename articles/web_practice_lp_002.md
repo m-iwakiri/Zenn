@@ -107,7 +107,6 @@ LPの狙いやコンセプトを決め、デザインが完成したらいよい
             <section id="recommend"></section>
             <section id="diagnostics"></section>
             <section id="contents1"></section>
-            <section id="ruby_aws"></section>
             <section class="cta"></section>
             <section id="teacher"></section>
             <section class="cta"></section>
